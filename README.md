@@ -1,4 +1,4 @@
-# CS425 Linkedin Project
+# LinkedIn Style Full Stack Social Media Application
 
 A brief description of your project, what it does, and its purpose.
 
@@ -12,8 +12,8 @@ A brief description of your project, what it does, and its purpose.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Adi-shinde31/CS425-Linkedin-Project
-   cd CS425-Linkedin-Project
+   git clone https://github.com/Adi-shinde31/LinkedIn-Style-Full-Stack-Social-Media-Application.git
+   cd LinkedIn-Style-Full-Stack-Social-Media-Application
    ```
 2. **Install dependencies:**
    ```bash
